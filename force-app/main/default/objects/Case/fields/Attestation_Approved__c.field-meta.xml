@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Attestation_Approved__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Checked if the Cultural Competency case has been approved. This is filled out by the DDMN web apps after clicking the Approve Attestation button on the Cultural Competency Layout and is Read Only.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Marks whether or not this Cultural Competency Attestation has been Approved or not.</inlineHelpText>
+    <label>Attestation Approved</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

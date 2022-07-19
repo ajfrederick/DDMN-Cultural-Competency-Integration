@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Case.Cultural_Competency</members>
+        <name>RecordType</name>
+    </types>
+    <types>
+        <members>DDMNWebAppsServices3</members>
+        <members>DDMNWebAppsServices3Dev</members>
+        <name>RemoteSiteSetting</name>
+    </types>
+    <version>55.0</version>
+</Package>

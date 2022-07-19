@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Cultural_Awareness_Capability__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Checked if any of this Provider&apos;s staff is certified in the Cultural Capability called Cultural Awareness. Fill out by DDMN web apps Cultural Competency Form.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Checked if any of this Provider&apos;s staff is certified in the Cultural Capability called Cultural Awareness.</inlineHelpText>
+    <label>Cultural Awareness Capability</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>
